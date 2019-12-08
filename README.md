@@ -21,19 +21,19 @@ The LED Matrix will show the snake. The Joystick can be used to control the move
 
 # C Code List
 
- * State Machine (main.c) 
+ * State Machine [main.c](docs/CONTRIBUTING.md)
  It’s the code for the state transitions and implement
 
- * Joystick (joystick.h)  (source site)
+ * Joystick [joystick.h](joystick.h) [source site](https://circuitdigest.com/microcontroller-projects/joystick-interfacing-with-atmega8)
  It’s the code to get the input from the joystick
 
- * Lcd  (lcd.h &  lcd.c ) 
+ * Lcd   [lcd.h](lcd.h)  [lcd.c](lcd.c)
  It ‘s the code to generate the score information on 16x2 LCD  
 
- * Snake (snake.h) 
+ * Snake [snake.h](snake.h)
  It ‘s the code to generate the snake on 8x8 LED Matrix. 
 
- * Bean  (bean.h) 
+ * Bean [bean.h](bean.h)
  It ‘s the code to generate the bean on 8x8 LED Matrix
 
 # Summary
