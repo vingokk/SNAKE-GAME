@@ -15,10 +15,10 @@ The game involves controlling a single block or snakehead by turning only left o
 The LED Matrix will show the snake. The Joystick can be used to control the movement of the snake. The LCD will display the game score and other game information. 
  
 **A Picture Of My Project**
-
+![](./images/snake.jpg)
 
 **PIN Connect**
-
+![](./images/pin.PNG)
 # C Code List
 
  * State Machine [(main.c)](main.c)
