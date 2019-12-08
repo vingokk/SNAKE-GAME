@@ -1,6 +1,9 @@
+# SNAKE GAME - EE120B Final Project
+
 # Intro
 
 This is my UCR EE120B Embedded Systems final project for Fall 2019 .My project is a custom implementation of the snake game on an ATMEGA1284 Microcontroller. I have used C code and State Machine to finish the Software part based on Atmel Studio 7. Three main components are applied in my Hardware: Joystick, 8x8LED Matrix, 16x2 LCD.
+
 # Video demo
 You can see the game demo in the following video:
 https://youtu.be/gDWm9CpMgJA
